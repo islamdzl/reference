@@ -3,7 +3,7 @@
   "googleAuthRedirectUrl": "http://localhost:3000/auth/register",
   "googleAuthClientId": "86906719441-ct2jjss35hh5mi9gm79qmihilpoe4b83.apps.googleusercontent.com",
   "webPushPublicKey": "BCjoOkp-E-yl6DA1vu_RyzcAH-bLObVY5HcdgogSODhLvBaN4wlSwrIr73isezhkQ2xNVoxkwAccliq-3dgbe4M",
-  "webSocketUrl": "wss://islamdzl-sh.tail97f6f8.ts.net/soukelfellah-b/api",
+  "webSocketUrl": "https://islamdzl-sh.tail97f6f8.ts.net/soukelfellah-b",
   "clientUrl": "http://localhost:3000",
   "apiUrl": "https://islamdzl-sh.tail97f6f8.ts.net/soukelfellah-b/api"
 }
